@@ -1,0 +1,11 @@
+C:\Users\cheqs\source\repos\IraoWork\Irao.Domain\bin\Debug\netcoreapp3.1\IRAO.Domain.deps.json
+C:\Users\cheqs\source\repos\IraoWork\Irao.Domain\bin\Debug\netcoreapp3.1\IRAO.Domain.dll
+C:\Users\cheqs\source\repos\IraoWork\Irao.Domain\bin\Debug\netcoreapp3.1\IRAO.Domain.pdb
+C:\Users\cheqs\source\repos\IraoWork\Irao.Domain\obj\Debug\netcoreapp3.1\IRAO.Domain.AssemblyInfoInputs.cache
+C:\Users\cheqs\source\repos\IraoWork\Irao.Domain\obj\Debug\netcoreapp3.1\IRAO.Domain.AssemblyInfo.cs
+C:\Users\cheqs\source\repos\IraoWork\Irao.Domain\obj\Debug\netcoreapp3.1\IRAO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cheqs\source\repos\IraoWork\Irao.Domain\obj\Debug\netcoreapp3.1\IRAO.Domain.dll
+C:\Users\cheqs\source\repos\IraoWork\Irao.Domain\obj\Debug\netcoreapp3.1\IRAO.Domain.pdb
+C:\Users\cheqs\source\repos\IraoWork\Irao.Domain\bin\Debug\netcoreapp3.1\IRAO.Domain.runtimeconfig.json
+C:\Users\cheqs\source\repos\IraoWork\Irao.Domain\bin\Debug\netcoreapp3.1\IRAO.Domain.runtimeconfig.dev.json
+C:\Users\cheqs\source\repos\IraoWork\Irao.Domain\obj\Debug\netcoreapp3.1\IRAO.Domain.genruntimeconfig.cache

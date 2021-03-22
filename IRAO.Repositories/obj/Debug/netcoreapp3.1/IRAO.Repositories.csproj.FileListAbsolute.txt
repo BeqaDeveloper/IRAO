@@ -1,0 +1,14 @@
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\obj\Debug\netcoreapp3.1\IRAO.Repositories.csprojAssemblyReference.cache
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\obj\Debug\netcoreapp3.1\IRAO.Repositories.AssemblyInfoInputs.cache
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\obj\Debug\netcoreapp3.1\IRAO.Repositories.AssemblyInfo.cs
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\obj\Debug\netcoreapp3.1\IRAO.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\bin\Debug\netcoreapp3.1\IRAO.Repositories.deps.json
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\bin\Debug\netcoreapp3.1\IRAO.Repositories.dll
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\bin\Debug\netcoreapp3.1\IRAO.Repositories.pdb
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\bin\Debug\netcoreapp3.1\IRAO.Domain.dll
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\bin\Debug\netcoreapp3.1\IRAO.Services.dll
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\bin\Debug\netcoreapp3.1\IRAO.Domain.pdb
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\bin\Debug\netcoreapp3.1\IRAO.Services.pdb
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\obj\Debug\netcoreapp3.1\IRAO.Repositories.csproj.CopyComplete
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\obj\Debug\netcoreapp3.1\IRAO.Repositories.dll
+C:\Users\cheqs\source\repos\IraoWork\IRAO.Repositories\obj\Debug\netcoreapp3.1\IRAO.Repositories.pdb

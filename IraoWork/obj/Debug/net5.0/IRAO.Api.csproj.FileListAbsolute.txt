@@ -1,0 +1,7 @@
+C:\Users\cheqs\source\repos\IraoWork\IraoWork\obj\Debug\net5.0\IRAO.Api.csprojAssemblyReference.cache
+C:\Users\cheqs\source\repos\IraoWork\IraoWork\obj\Debug\net5.0\IRAO.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheqs\source\repos\IraoWork\IraoWork\obj\Debug\net5.0\IRAO.Api.AssemblyInfoInputs.cache
+C:\Users\cheqs\source\repos\IraoWork\IraoWork\obj\Debug\net5.0\IRAO.Api.AssemblyInfo.cs
+C:\Users\cheqs\source\repos\IraoWork\IraoWork\obj\Debug\net5.0\IRAO.Api.csproj.CoreCompileInputs.cache
+C:\Users\cheqs\source\repos\IraoWork\IraoWork\obj\Debug\net5.0\IRAO.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cheqs\source\repos\IraoWork\IraoWork\obj\Debug\net5.0\IRAO.Api.MvcApplicationPartsAssemblyInfo.cache

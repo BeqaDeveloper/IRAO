@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pSrn2u2xC3QK6sstCLMDirWXIHROoi/z+/83Vxb6LSSVQ409O1maB9lAwcE9f6XRku3zyt6+gXlPfeaSzeM+Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cheqs\\source\\repos\\IraoWork\\Domain\\IRAO.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cheqs\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cheqs\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
